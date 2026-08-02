@@ -1,2 +1,29 @@
-# Fanmei
+# 繁梅字體 / Fanmei Fonts
+
+基於[「梅系列字體 / Ume Fonts」](https://zh.osdn.net/projects/ume-font/)的貢獻性補全專案。
+
+## 簡介
+
+「繁梅字體 / Fanmei Fonts」為「梅系列字體 / Ume Fonts」貢獻性增補專案，包含「繁梅黑體 / Fanmei Hei」和「繁梅明體 / Fanmei Ming」，分別基於「梅ゴシック / Ume Gothic」「梅明朝 / Ume Mincho」增補 BIG5 常用字、注音符號和蘇州碼子，增加 950 代碼頁。此外，將 U+005C 碼位中放置的 `¥` 修改成 `\`。
+
 ![image](./image.png)
+
+## 注意事項
+
+- 本字型暫無進一步增補字形的計劃，亦無計劃製作簡中版。
+- 本字型目前僅增補 BIG5 常用字，未對「梅ゴシック」「梅明朝」原有字圖進行修改。後續可能會以 BIG5 常用字為限，按照繁中慣用字形調整部分漢字字圖，如有調整將在更新說明中註明。
+
+### 原始字型已知問題
+- 「淴」右部誤作「怱」。
+
+## 授權信息
+
+原始字型「梅ゴシック / Ume Gothic」「梅明朝 / Ume Mincho」由蓬萊和多流（HORAI Wataru）創作，採用極為寬鬆的授權方式：
+```
+These fonts are free software.
+Unlimited permission is granted to use, copy, and distribute it,
+with or without modification, either commercially and noncommercially.
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+```
+
+該授權與 0BSD 在精神上一致，均為「公共領域等效」許可。為便於識別和管理，本字型專案採用經開放原始碼促進會（OSI）認證的 [0BSD](https://opensource.org/license/0bsd) 授權，相當於將本字型專案以「公共領域等效」許可釋出。
