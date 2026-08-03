@@ -4,7 +4,9 @@
 
 ## 簡介
 
-「繁梅字體 / Fanmei Fonts」為「梅系列字體 / Ume Fonts」貢獻性增補專案，包含「繁梅黑體 / Fanmei Hei」和「繁梅明體 / Fanmei Ming」，分別基於「梅ゴシック / Ume Gothic」「梅明朝 / Ume Mincho」增補 BIG5 常用字、注音符號和蘇州碼子，增加 950 代碼頁。此外，將 U+005C 碼位中放置的 `¥` 修改成 `\`。
+「繁梅字體 / Fanmei Fonts」為「梅系列字體 / Ume Fonts」的貢獻性增補專案，包含「繁梅黑體 / Fanmei Hei」及「繁梅明體 / Fanmei Ming」兩款字型，分別基於「梅ゴシック / Ume Gothic」與「梅明朝 / Ume Mincho」進行擴充。
+
+本專案增補 BIG5 常用字、注音符號及蘇州碼子，並新增 950 代碼頁支援。此外，將 U+005C 碼位原有的 `¥` 符號調整為 `\`，並將半寬方塊繪製字元改為全寬。其餘字圖則暫未更動。
 
 ![image](./image.png)
 
