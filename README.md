@@ -2,9 +2,9 @@
 
 基於[「梅系列字體 / Ume Fonts」](https://zh.osdn.net/projects/ume-font/)的 BIG5 常用字貢獻性補全專案。
 
-## 簡介
-
 ![image](./image.png)
+
+## 簡介
 
 「繁梅字體 / Fanmei Fonts」為「梅系列字體 / Ume Fonts」的貢獻性增補專案，包含「繁梅黑體 / Fanmei Hei」及「繁梅明體 / Fanmei Ming」兩款字型，分別基於「梅ゴシック / Ume Gothic」與「梅明朝 / Ume Mincho」進行擴充。
 
