@@ -2,7 +2,7 @@
 
 基於[「梅系列字體 / Ume Fonts」](https://zh.osdn.net/projects/ume-font/)的 BIG5 常用字貢獻性補全專案。
 
-[![0BSD](https://img.shields.io/github/license/lxgw/Fanmei?style=flat-square)](https://github.com/lxgw/Fanmei)
+[![0BSD](https://img.shields.io/github/license/lxgw/Fanmei)](https://github.com/lxgw/Fanmei)
 
 ![image](./image.png)
 
@@ -21,7 +21,7 @@
 
 <details>
 <summary>查看主要調整字元</summary>
-、。，．：；侮僧冒勇勤包匕博唐唳啄喝喫嘆器嚮塘塚填墨契寧層巽悔慎憎懲抱捨捩敏曜梅欄殺泡派海港湧漢濯琢甩真砲突簿糖練縛繁耀胞脈臭莽薄蘭虐虞蟒褐誤謁謹賓贈躍逸遷選鎮隆難響頻顛類飽黛鼻ˇˉ˙
+、。，．：；侮僧冒勇勤包匕博唐唳啄喝喫嘆器嚮塘塚填墨契寧層巽悔慎憎懲抱捨捩敏敷曜梅欄殺泡派海港湧漢濯琢甩真砲突簿糖練縛繁耀胞脈臭莽薄蘭虐虞蟒褐誤謁謹賓贈躍逸遷選鎮隆難響頻顛類飽黛鼻ˇˉ˙
 </details>
 
 ## 注意事項
