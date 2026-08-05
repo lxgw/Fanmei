@@ -2,7 +2,7 @@
 
 基於[「梅系列字體 / Ume Fonts」](https://zh.osdn.net/projects/ume-font/)的 BIG5 常用字貢獻性補全專案。
 
-[![0BSD](https://img.shields.io/github/license/lxgw/Fanmei)](https://github.com/lxgw/Fanmei)
+[![0BSD](https://img.shields.io/github/license/lxgw/Fanmei?style=flat-square)](https://github.com/lxgw/Fanmei)
 
 ![image](./image.png)
 
