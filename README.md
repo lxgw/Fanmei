@@ -70,4 +70,4 @@ with or without modification, either commercially and noncommercially.
 THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 ```
 
-該授權與 0BSD 在精神上一致，均為「公共領域等效」許可。為便於識別和管理，本字型專案採用經開放原始碼促進會（OSI）認證的 [0BSD](https://opensource.org/license/0bsd) 授權，相當於將本字型專案以「公共領域等效」許可釋出。
+該授權與 0BSD 在精神上一致，均為「公共領域等效」許可。為便於識別和管理，本字型專案採用經開放原始碼促進會（OSI）認證的 [0BSD](https://opensource.org/license/0bsd) 授權，相當於將本字型專案以「公共領域等效」許可釋出。在此授權下，本字型可用於任意用途（包括商業使用、嵌入式應用），亦歡迎在本字型基礎上改作衍生。
