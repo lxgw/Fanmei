@@ -62,7 +62,7 @@
 
 ## 授權信息
 
-原始字型「梅ゴシック / Ume Gothic」「梅明朝 / Ume Mincho」由蓬萊和多流（HORAI Wataru）創作，採用極為寬鬆的授權方式：
+原始字型「梅ゴシック / Ume Gothic」「梅明朝 / Ume Mincho」由蓬萊和多流（HORAI Wataru）創作，採用 [mplus](https://spdx.org/licenses/mplus) 授權方式：
 ```
 These fonts are free software.
 Unlimited permission is granted to use, copy, and distribute it,
