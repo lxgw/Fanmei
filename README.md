@@ -1,6 +1,6 @@
 # 繁梅字體 / Fanmei Fonts
 
-基於[「梅系列字體 / Ume Fonts」](https://zh.osdn.net/projects/ume-font/)的輕量增補專案。
+基於[「梅系列字體 / Ume Fonts」](https://osdn.jp/projects/ume-font/)的輕量增補專案。
 
 [![0BSD](https://img.shields.io/github/license/lxgw/Fanmei)](https://github.com/lxgw/Fanmei)
 
